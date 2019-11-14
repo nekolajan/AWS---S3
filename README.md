@@ -1,2 +1,4 @@
-# AWS---Upload-a-file-into-Redshift-from-S3
-Python - store text file into Redshift
+# AWS---S3 Manipulation
+Python - store/delete text file in S3 bucket
+
+
